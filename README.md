@@ -31,5 +31,4 @@ https://jiaruixuan.github.io
 ## Update Content
 
 - Edit text in `index.html`.
-- Replace `assets/Ruixuan_Jia_CV.pdf` when the CV changes.
 - Keep filenames stable to avoid broken links.
